@@ -1,0 +1,8 @@
+Hello first file >> practice.txt
+
+echo Hello First File >> practice.txt
+q
+:Q
+echo Hello first file
+Hello First File
+First File
